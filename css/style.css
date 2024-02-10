@@ -1,0 +1,290 @@
+.main{
+    background-color: rgb(164, 159, 159) 0%,rgb(115, 118, 120) 100%;
+}
+.border-span{
+    border-left: 4px solid black;
+}
+.border-span{
+    border-left: 4px solid yellow;
+}
+ul{
+    list-style: none;
+}
+.a{
+    background-image: url(../image/con-2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.ss :hover{
+   text-decoration: none;
+   color:red;
+}
+.ss{
+    text-decoration: none;
+}
+.b{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../image/con-1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.tt{
+    width: 170px;
+    height: 40px;
+}
+
+.f{
+    width: 150px;
+}
+.t{
+    font-size: 13px;
+}
+.hh :hover{
+ transform: scale(1.2);
+ transition: all 0.7s ease;
+}
+.h :hover{
+    transform: scale(1.2);
+    transition: all 0.7s ease;
+    color: aqua;
+}
+ .wrapper{
+    width:100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  body{
+    overflow-x: hidden;
+ } 
+ .v{
+    text-decoration: none;
+    font-size: 13px;
+ }
+ .j :hover{
+      background-color: yellow;
+      transition: all 0.8s ease;
+      transform: scale(1.3s);
+ }
+ .j{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    color: white;
+ }
+ .xxxxx,.nnn, .tt{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .xx{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../image/construction.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ }
+ .ggg{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../image/ggg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ }
+ .chetan{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../image/chetan.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ }
+ .bg{
+    background: rgb(230, 225, 225);
+ }
+ .bul{
+    background-image: url(../image/bul.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ }
+ .but{
+    width: 190px;
+    height: 50px;
+    background-color: yellow;
+ }
+ 
+   .pp{
+    font-size: 13px;
+   }
+   .r  :hover{
+    transform: scale(1.2);
+    transition: all 0.7s ease;
+   opacity: 70%;
+   }
+   /* .{ 
+    position: absolute; 
+    width: 300px;
+    height: 70px;
+    margin: 0;
+    padding: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%); 
+   }  */
+   .ee{
+     width: 100px;
+    height: 100px; 
+    transform: rotate(45deg);
+   } 
+   .eee{
+    width: 200px;
+   height: 200px; 
+   transform: rotate(45deg);
+  } 
+   .hh :hover{
+    transform: scale(1.2);
+    transition: all 0.7s ease;
+   }
+  
+   .g{
+    width: 350px;
+    height: 160px; 
+   }
+   .aaa{
+    text-decoration: none;
+   }
+   
+   
+   .hhhh{
+    border-bottom: 4px solid yellow;
+    background: #0693e3;
+    
+   }
+   .hhhhh{
+    border-bottom: 4px solid yellow;
+    top: 70px;
+   }
+   .bt{
+    width: 270px;
+    height: 50px;
+    background-color: yellow;
+    color: rgb(39, 41, 43);
+   }
+   .end{
+    background:  #0693e3;;
+   }
+.main{
+    font-family: Montserrat;
+}
+.bbb{
+    width: 200px;
+    height: 200px;
+}
+@media (min-width:768px){
+    #chetan2{
+        display: none;
+    }
+    .ma{
+        bottom: 60px;
+    }
+    .y{
+        left: 150px;
+    }
+    .m{
+        left: 100px;
+    }
+    .y{
+        left: 150px;
+    }
+    .ee{
+        width: 70px;
+       height: 70px; 
+       transform: rotate(45deg);
+      } 
+    
+    
+    
+}
+@media (min-width:992px){
+    .a{
+        background-image: url(../image/con-2.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 100vh;
+    }
+    #chetan2{
+        display:inline;
+    }
+    .b{
+        background-image: url(../image/con-1.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 100vh;
+    }
+    .d{
+        background-image: url(../image/con-4.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 100vh;
+    }
+    .f{
+        width: 350px;
+    }
+    .n{
+        left: 64px;
+    }
+    .m{
+        left: 100px;
+    }
+    .y{
+        left: 150px;
+    }
+    .ma{
+        bottom: 60px;
+    }
+    .j{
+        position: relative;
+        bottom: 30px;
+     }
+     .k{
+        position: relative;
+        top: 40px;
+     }
+     .nm{
+        position:relative ;
+        top: 50px;
+     }
+     nmn{
+        position: relative;
+        bottom: 180px;
+     }
+     .rrr{
+        bottom: 67px;
+       }
+       .vv{
+        width: 270px;
+        height: 60px;
+       }
+       .jjj{
+        width: 100%;
+        height: 150px;
+          }
+          .fir  :hover{
+            transform: scale(1.2);
+            transition: all 0.7s ease;
+           opacity: 70%;
+           }
+ 
+}
